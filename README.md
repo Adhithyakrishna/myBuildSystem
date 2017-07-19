@@ -18,13 +18,10 @@
 
  ☐ Install node js
 
- ☐ For sass plugin to work, we need ruby, download and install from the following link
-      ✔ https://rubyinstaller.org/downloads/
+ ✔ For sass plugin to work, we need ruby, download and install from https://rubyinstaller.org/downloads/
      
- ☐ Fan of classic compass? download the compass from the below link
-      ✔ Install compass from http://compass-style.org/help/ 
+ ✔ Fan of classic compass? download the compass from  http://compass-style.org/help/ 
  
-☐ Goes well with any local server, but I would recommend using http server, comes along with node
-      ✔ Install http server from https://www.npmjs.com/package/http-server
+ ✔ Goes well with any local server, but I would recommend using http server, comes along with node install http server from https://www.npmjs.com/package/http-server
      
 #HAPPY BUILDING!!     
