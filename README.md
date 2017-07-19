@@ -8,9 +8,8 @@
 
 # Options for Js
   1) Seperate folder to include preload scripts (scripts that has to be rendered before other scripts eg.jquery)
-  2) Validates js (no more missing semicolon during commit yaay!!
+  2) Validates js (no more missing semicolon during commit yaay)!!
   3) minifies all the js files and includes only a single js for production
 
 # Watch
-  1) Does both css and js tasks for each edit. Success?
-
+  1) Watches for changes and does both css tasks and js tasks for each save made inside the folder. Success?
