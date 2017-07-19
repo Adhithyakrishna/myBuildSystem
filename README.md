@@ -13,3 +13,16 @@
 
 # Watch
   1) Watches for changes and does both css tasks and js tasks for each save made inside the folder. Success?
+
+Let's start building
+
+ ☐ Install node js
+ ☐ For sass plugin to work, we need ruby, download and install from the following link
+     ✔ https://rubyinstaller.org/downloads/
+     
+ ☐ Fan of classic compass? download the compass from the below link
+     ✔ Install compass from http://compass-style.org/help/ 
+ ☐ Goes well with any local server, but I would recommend using http server, comes along with node
+     ✔ Install http server from https://www.npmjs.com/package/http-server
+     
+#HAPPY BUILDING!!     
