@@ -5,5 +5,5 @@ $(document).ready(function() {
 			$(".container").load("script/indexHelper.html");
 		}
 	}
-	setInterval(liveInject, 0);
+	setInterval(liveInject, 2000);
 });
