@@ -24,6 +24,8 @@
      
  ✔ Fan of classic compass? download the compass from  http://compass-style.org/help/ 
  
+ ✔ npm install --global postcss-cli autoprefixer
+ 
  ✔ Goes well with any local server, but I would recommend using http server, comes along with node install http server from https://www.npmjs.com/package/http-server
      
 #HAPPY BUILDING!!     
