@@ -1,5 +1,1 @@
-body {
-  transform: rotate(7deg);
-  text-align: center;
-  column-count: 3;
-}
+body{display:block}

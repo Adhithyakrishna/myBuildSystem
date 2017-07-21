@@ -1,3 +1,9 @@
+stopLoad = false;
 $(document).ready(function() {
-	alert("helo world");
+	function liveInject() {
+		if (!stopLoad) {
+			$(".container").load("script/indexHelper.html");
+		}
+	}
+	setInterval(liveInject, 0);
 });

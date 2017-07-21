@@ -98,6 +98,7 @@ module.exports = function(grunt) {
     watch: {
       scripts: {
         files: [
+          'script/indexHelper.html',
           'script/js/*.js',
           '!*.min.js'
         ],
@@ -111,6 +112,7 @@ module.exports = function(grunt) {
       },
       devscripts: {
         files: [
+          'script/indexHelper.html',
           'script/preload/*.js',
           'script/js/*.js',
           '!*.min.js'
