@@ -15,6 +15,8 @@
   1) Watches for changes and does both css tasks and js tasks for each save made inside the folder. Success?
 
 # Let's start building
+ 
+ ☐ chrome://flags/#enable-devtools-experiments - enable this and unleash awesomeness.
 
  ☐ Install node js
 
